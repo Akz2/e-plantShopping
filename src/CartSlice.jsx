@@ -1,4 +1,4 @@
-import { createSlice } from '@reduxjs/toolkit';
+import { CartSlice } from '@reduxjs/toolkit';
 import { act } from 'react';
 
 export const CartSlice = CartSlice({
